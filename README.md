@@ -5,7 +5,7 @@ Web Developer (React + Node.js + MySQL)
 ---------------------------------------
 
 * 🌍  I'm based in Argentina, Mar del Plata
-* 🖥️  See my portfolio at [here](http://https://frontend-224fb.web.app/)
+* 🖥️  See my portfolio at [here](http://frontend-224fb.web.app/)
 * ✉️  You can contact me at [garridonahuel8@gmail.com](mailto:garridonahuel8@gmail.com)
 * 🧠  I'm learning React and Node.js
 

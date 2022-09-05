@@ -1,6 +1,6 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Nahuel Garrido
 ======================================================================================================================================
-FullStack Developer (React + Node.js + MySQL)
+FullStack Developer 
 ---------------------------------------
 
 * 🌍  Vivo en Argentina, Mar del Plata
